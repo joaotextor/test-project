@@ -1,7 +1,11 @@
-.root {}
+.root {
+    width: 100%;
+}
 
 .title {}
 
 .anchor {}
 
 .icon {}
+
+.app {}
